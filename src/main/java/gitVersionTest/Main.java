@@ -3,7 +3,7 @@ package gitVersionTest;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("I am V2");
+		System.out.println("I am V3");
 	}
 
 }
